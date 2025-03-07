@@ -1,0 +1,35 @@
+[
+    {
+        "name": "dikshit",
+        "phone": "9824160901",
+        "email": "gautamdikshit19@gmail.com",
+        "appointment_date": "2025-03-13"
+    },
+    {
+        "name": "Dikshyat",
+        "phone": "9846138539",
+        "email": "gautamdikshit19@gmail.com",
+        "appointment_date": "2025-03-06"
+    },
+    {
+        "name": "Dikshit",
+        "phone": "9824160901",
+        "call_date": "To convert the query \"this saturday\" to YYYY-MM-DD format, we need to determine which Saturday it is. Since today's date is 2025-03-07, the next Saturday would be 2025-03-14.\n\nThe output would be:\n\n2025-03-14"
+    },
+    {
+        "name": "Dikshit",
+        "phone": "9824160609",
+        "call_date": "This Saturday would be 2025-03-14."
+    },
+    {
+        "name": "Dikshyant",
+        "phone": "9806597666",
+        "call_date": "2025-03-14"
+    },
+    {
+        "name": "Dikshyan",
+        "phone": "9806597665",
+        "email": "roadasdfghjkl@gmail.com",
+        "appointment_date": "2025-03-09"
+    }
+]
